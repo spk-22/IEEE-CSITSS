@@ -32,6 +32,7 @@ Features:
 1.Scroll-Based Effects for Dynamic Content Reveal 
 The Navbar component listens for scroll events and applies a "glass-card" effect when scrolling (navbar.tsx [47]).
 
+
 2. Interactive Buttons or Hover Effects 
 Navigation links have hover effects with an animated underline (navbar.tsx [47]).
 The Theme Toggle Button dynamically updates the theme with visual feedback (theme-toggle-button.tsx [50]).
