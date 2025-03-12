@@ -55,11 +55,6 @@ The design follows a Minimalist yet engaging layout with clean UI elements.
 The useEffect hooks in theme toggles prevent unnecessary re-renders (theme-toggle.tsx [49]).
 next-themes ensures light/dark mode does not cause hydration mismatches (theme-provider.tsx [48]).
 
-- Overview of the CSITSS conference
-- Important dates and deadlines
-- Information about keynote speakers
-- Details on paper submission guidelines
-- Contact information for organizers
 
 Technologies Used
 
@@ -69,22 +64,19 @@ Technologies Used
 - [Radix UI](https://www.radix-ui.com/) - Unstyled, accessible components for building high-quality web interfaces
 - [React Hook Form](https://react-hook-form.com/) - Performant, flexible, and extensible forms with easy-to-use validation
 
-Getting Started
-
+Getting Started : 
 Prerequisites
 
 - [Node.js](https://nodejs.org/) (version 14.x or later)
 - [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) package manager
 
 Installation
-
 1. Clone the repository:
 
    bash
    git clone https://github.com/spk-22/IEEE-CSITSS.git
    cd IEEE-CSITSS
    
-
 2. Install dependencies:
 
    Using npm:
@@ -98,8 +90,7 @@ Installation
    bash
   ``` yarn install```
    
-
-Running the Development Server
+Running the Development Server :
 
 After installing the dependencies, start the development server:
 
