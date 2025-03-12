@@ -18,7 +18,42 @@ Table of Contents
 
 
 
-Features
+
+Implemented:
+Scroll-based effects
+Interactive buttons & hover effects
+Responsive navigation bar
+Light/Dark mode
+Glassmorphism & minimalist design
+Performance optimizations
+
+Features:
+
+1.Scroll-Based Effects for Dynamic Content Reveal 
+The Navbar component listens for scroll events and applies a "glass-card" effect when scrolling (navbar.tsx [47]).
+
+2. Interactive Buttons or Hover Effects 
+Navigation links have hover effects with an animated underline (navbar.tsx [47]).
+The Theme Toggle Button dynamically updates the theme with visual feedback (theme-toggle-button.tsx [50]).
+
+3.Light/Dark Mode Toggle 
+Implemented with FloatingThemeToggle.tsx and ThemeToggleButton.tsx ([46], [50]).
+Users can switch themes dynamically.
+
+4.A Creative Navigation Bar Redesign 
+The Navbar component has a dynamic scroll effect, mobile responsiveness, and hover animations (navbar.tsx [47])
+
+5.Improve Responsiveness and Accessibility 
+The useIsMobile.tsx hook detects mobile screens (use-mobile.tsx [51]).
+The navbar.tsx includes a mobile-friendly navigation system.
+
+6.Maintain a Consistent UI with Modern Design Trends 
+The site uses Glassmorphism in the navbar on scroll (navbar.tsx [47]).
+The design follows a Minimalist yet engaging layout with clean UI elements.
+
+7.Performance Optimizations for Smooth Rendering 
+The useEffect hooks in theme toggles prevent unnecessary re-renders (theme-toggle.tsx [49]).
+next-themes ensures light/dark mode does not cause hydration mismatches (theme-provider.tsx [48]).
 
 - Overview of the CSITSS conference
 - Important dates and deadlines
