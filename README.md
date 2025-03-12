@@ -6,7 +6,7 @@ IEEE-CSITSS Demo Website
 
 This repository contains a demo website for the IEEE Conference on Computational Systems and Information Technology for Sustainable Solutions (CSITSS). The website showcases the conference's purpose, important dates, and other relevant information.
 
-Vercel deployment link (https://v0-ieee-csitss-design.vercel.app/
+Vercel deployment link : https://v0-ieee-csitss-design.vercel.app/
 
 Implemented:
 Scroll-based effects
