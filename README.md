@@ -55,13 +55,13 @@ Installation
    Using npm:
 
    bash
-   npm install
+   ```npm install```
    
 
    Or using Yarn:
 
    bash
-   yarn install
+  ``` yarn install```
    
 
 Running the Development Server
@@ -71,10 +71,10 @@ After installing the dependencies, start the development server:
 Using npm:
 
 bash
-npm run dev
+```npm run dev```
 
 
 Or using Yarn:
 
 bash
-yarn dev
+```yarn dev```
