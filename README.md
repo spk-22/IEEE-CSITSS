@@ -6,18 +6,6 @@ IEEE-CSITSS Demo Website
 
 This repository contains a demo website for the IEEE Conference on Computational Systems and Information Technology for Sustainable Solutions (CSITSS). The website showcases the conference's purpose, important dates, and other relevant information.
 
-Table of Contents
--MAIN Feature : Toggle switch between LIGHT and DARK MODE.
-- [About the Conference](#about-the-conference)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running the Development Server](#running-the-development-server)
-
-
-
 
 Implemented:
 Scroll-based effects
