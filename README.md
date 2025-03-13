@@ -62,22 +62,25 @@ Prerequisites
 Installation
 1. Clone the repository:
 
-   bash
+   ```bash
    git clone https://github.com/spk-22/IEEE-CSITSS.git
    cd IEEE-CSITSS
+   ```
    
 2. Install dependencies:
 
    Using npm:
 
-   bash
-   ```npm install```
+   ```bash
+   npm install
+   ```
    
 
    Or using Yarn:
 
-   bash
-  ``` yarn install```
+   ```bash
+   yarn install
+   ```
    
 Running the Development Server :
 
@@ -85,11 +88,13 @@ After installing the dependencies, start the development server:
 
 Using npm:
 
-bash
-```npm run dev```
+```bash
+npm run dev
+```
 
 
 Or using Yarn:
 
-bash
-```yarn dev```
+```bash
+yarn dev
+```
